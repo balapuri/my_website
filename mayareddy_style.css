@@ -1,0 +1,56 @@
+body {
+	height:650px;
+	background-color: #eedddd;
+	/*background: linear-gradient(#ffaaaa, #ffffaa);
+	background-image: url("sfsunrise.jpg
+	background-size: cover;*/
+	font-family:Helvetica,sans-serif;
+}
+
+.container {
+	background-color: rgba(255, 255, 255, 0.2);
+	text-align: center;
+	margin: 50px;
+	padding: 20px;
+}
+
+h1{
+	font-size: 75px;
+}
+
+header{
+	
+	color:#aa6644;
+	padding:0 0 0 50px;
+}
+ul{
+	list-style-type: none;
+	font-size: 30px;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	display: inline;
+}
+
+
+a {
+	text-decoration: none;
+	color: #aa6644;
+	padding: 5px 20px 5px 20px;
+	border-radius: 3px;
+}
+
+a:hover {
+	color: #ffeeee;
+	background-color: #aa6644;
+}
+
+p {
+	color: #997766;
+}
+
+.content {
+	padding: 0 0 0 50px;
+	}
